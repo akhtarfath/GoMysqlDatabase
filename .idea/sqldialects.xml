@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/database_auto_increment_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_exec_query_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_get_connection_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_prepare_statement_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_query_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_sql_injection_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_transaction_test.go" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/repository/comments_repository_impl.go" dialect="GenericSQL" />
+  </component>
+</project>
